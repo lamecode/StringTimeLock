@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 using System.Text;
 class PasswordManager
 {
-    private const string generalEncryptionKey = "0xFF_demonstrationEncryptionKey";
+    private const string generalEncryptionKey = "CZ6055000000001904199440";
     private const string dataFolder = "data";
     private const string descFolder = "data/desc";
     public void StorePassword()

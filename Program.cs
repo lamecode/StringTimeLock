@@ -25,6 +25,7 @@ class Program
 
         while (true)
         {
+            Console.Clear();
             UIAddons.DrawHeader(">>>>>  StringTimeLock: Welcome  <<<<<");
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine("Press a number on your keyboard to start an action:");
